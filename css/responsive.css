@@ -1,0 +1,42 @@
+
+@media screen and (max-width: 599px) {
+    
+    .name {
+        text-align: center;
+        max-width: 100%;
+        padding-top: 0;
+        color: black;
+    }
+    
+    .logo {
+        margin-right: auto;
+        margin-left: auto;
+    }
+}
+
+
+@media screen and (min-width: 600px) {
+    
+    .col-md-6 {
+        width: 50%;
+        float: left;
+    }
+}
+
+
+@media screen and (max-width: 992px) {
+    
+    .col-md-4 {
+        width: 75%;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    
+    .round {
+        width: 100%;
+    }
+
+    .link {
+        padding-bottom: 12px;
+    }
+}

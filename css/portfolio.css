@@ -1,0 +1,81 @@
+
+body {
+	font-family: 'Inconsolata', monospace;
+    font-size: medium;
+    display: flex;
+	flex-wrap: wrap;
+}
+
+.container {
+    border: 1px solid black;
+    border-radius: 30px;
+    background-color: #ceb466;
+    color: white;
+}
+5
+* {
+	box-sizing: border-box;
+}
+
+a {
+	font-size: 20px;
+	color: black;
+	cursor: pointer;
+}
+
+.intro {
+	text-align: justify;
+	font-family: 'Inconsolata', monospace;
+
+}
+
+.row {
+	font-family: 'Inconsolata', monospace;
+}
+
+.logo {
+	padding-top: 20px
+	padding-bottom: 20px;
+}
+
+.title {
+	background-color: #c5b277;
+	border-radius: 30px 30px 0 0;
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.name {
+	font-family: 'Inconsolata', monospace;
+	padding-top: 50px;
+	text-align: right;
+	color: black;
+}
+
+
+.fend {
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+}
+
+.first-rule {
+	border: 1px solid white;
+	margin: 8px;
+}
+
+.round {
+	border-radius: 30px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.second-rule, .third-rule {
+	border: 1px solid white;
+}
+
+.disclaimer {
+	color: black;
+}
